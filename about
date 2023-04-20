@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>About Us - My Blog</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>My Blog</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h2>About Us</h2>
+      <p>We are a group of passionate bloggers who love to share our thoughts and ideas with the world.</p>
+      <p>Our blog covers a wide range of topics, from technology to travel, from fashion to food.</p>
+      <p>Thank you for visiting our blog!</p>
+    </main>
+    <footer>
+      <p>&copy; 2023 My Blog</p>
+    </footer>
+  </body>
+</html>
